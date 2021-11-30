@@ -1014,10 +1014,10 @@ img {
   margin-bottom: 35px;
 }
 .item-bg1 {
-  background-image: url(../images/home-one/home-one-img1.jpg);
+  background-image: url(../images/b-1);
 }
 .item-bg2 {
-  background-image: url(../images/home-one/home-one-img2.jpg);
+  background-image: url(../images/b-2);
 }
 .item-bg3 {
   background-image: url(../images/home-one/home-one-img3.jpg);
@@ -4255,6 +4255,9 @@ img {
 }
 .footer-widget {
   margin-bottom: 30px;
+  /* display: flex;
+  flex-direction: column;
+  align-items: center; */
 }
 .footer-widget .footer-logo {
   margin-bottom: 20px;
@@ -4317,6 +4320,9 @@ img {
   list-style: none;
   margin: 0;
   padding: 0;
+  /* display: flex;
+  flex-direction: column;
+  align-items: center; */
 }
 .footer-widget .footer-list li {
   display: block;
