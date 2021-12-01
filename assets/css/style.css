@@ -1014,13 +1014,16 @@ img {
   margin-bottom: 35px;
 }
 .item-bg1 {
-  background-image: url(../images/b-1);
-}
-.item-bg2 {
   background-image: url(../images/b-2);
 }
+.item-bg2 {
+  background-image: url(../images/b-1);
+}
 .item-bg3 {
-  background-image: url(../images/home-one/home-one-img3.jpg);
+  background-image: url(../images/b-3);
+}
+.item-bg4 {
+  background-image: url(../images/b-4.png);
 }
 .banner-area {
   position: relative;
