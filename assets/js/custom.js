@@ -24,7 +24,7 @@
     items: 1,
     dots: true,
     autoplay: true,
-    autoplayTimeout:3000,
+    autoplayTimeout: 3000,
     autoplayHoverPause: false,
     autoHeight: true,
   });
